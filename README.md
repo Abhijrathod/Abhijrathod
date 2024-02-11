@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijrathod" alt="abhijrathod" /></a> </p>
 
-- 💬 Ask me about **react,Vue,Angluar,Express**
-
 - 📫 How to reach me **jrabhijrathod@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c4mfe_5JSjZvYGAiG2N49tTCUfHAs5MR/view?usp=drive_link](https://drive.google.com/file/d/1c4mfe_5JSjZvYGAiG2N49tTCUfHAs5MR/view?usp=drive_link)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
