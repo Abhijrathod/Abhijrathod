@@ -1,6 +1,7 @@
 # Hi, I'm Abhijeet Rathod 👋🏾 👩🏾‍💻
 
 <img src="https://github.com/Abhijrathod/Abhijrathod/assets/54209169/52f38033-67f5-40fd-b91c-cd6c8c87a99e" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Abhijeet">
+
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
 
 
