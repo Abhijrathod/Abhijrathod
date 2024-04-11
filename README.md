@@ -1,4 +1,4 @@
-# Hi, I'm Abhijeet Rathod 👋🏾 👩🏾‍💻
+# Hi, I'm Abhijeet Rathod 👋🏾 👨🏾‍💻
 
 <img src="https://github.com/Abhijrathod/Abhijrathod/assets/54209169/52f38033-67f5-40fd-b91c-cd6c8c87a99e" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Abhijeet">
 
