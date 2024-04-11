@@ -9,5 +9,5 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - Know about my experiences [Resume](https://drive.google.com/file/d/1c4mfe_5JSjZvYGAiG2N49tTCUfHAs5MR/view?usp=drive_link)📄 
 - Stackoverflow public on [Stackoverflow](https://stackoverflow.com/users/16206204/abhijrathod)
 - Get Subscribe my medium on [Medium](https://medium.com/@abhijrathod) 🏓
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/abhijrathod/) 💼
+- My Likedin Profile [LinkedIn](https://www.linkedin.com/in/abhijrathod/) 💼
 - Featured on [Data Engineering Weekly](https://www.dataengineeringweekly.com/p/data-engineering-weekly-159/)
