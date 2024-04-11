@@ -6,8 +6,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/abhijrathod"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"></a>
-- Know about my experiences [Resume]📄 (https://drive.google.com/file/d/1c4mfe_5JSjZvYGAiG2N49tTCUfHAs5MR/view?usp=drive_link)
-
+- Know about my experiences [Resume](https://drive.google.com/file/d/1c4mfe_5JSjZvYGAiG2N49tTCUfHAs5MR/view?usp=drive_link)📄 
 - Stackoverflow public on [Stackoverflow](https://stackoverflow.com/users/16206204/abhijrathod)
 - Get Subscribe my medium on [Medium](https://medium.com/@abhijrathod) 🏓
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/abhijrathod/) 💼
